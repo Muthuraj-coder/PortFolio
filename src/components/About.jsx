@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import { motion, useScroll, useTransform } from 'framer-motion'
 import ScrollAnimation from './animation/ScrollAnimation';
 import './About.css'
-import profilePic from '../assets/Muthu.jpg'
+import profilePic from '../assets/Muthu.jpeg'
 import leetcodeLogo from '../assets/icons8-leetcode-24.png'
 import codechefLogo from '../assets/icons8-codechef-50.png'
 import codeforcesLogo from '../assets/icons8-codeforces-24.png'
