@@ -20,7 +20,7 @@ const Hero = () => {
     const [currentText, setCurrentText] = useState(0)
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
     const [displayedText, setDisplayedText] = useState('')
-    const fullText = "Hi, I'm Muthuraj"
+    const fullText = "Hi, I'm Muthuraj D"
 
     // Parallax-style scroll effects for background and hero image only
     const { scrollY } = useScroll()
